@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-zadanie domowe nr 1
+zadanko domowe nr 1 
